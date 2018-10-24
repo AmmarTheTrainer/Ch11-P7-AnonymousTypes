@@ -10,6 +10,15 @@ namespace Ch11_P7_AnonymousTypes
     {
         static void Main(string[] args)
         {
+            #region Internet Surfing
+
+            var Person = new { FirstName = "Ammar", LastName = "Shaukat" };
+
+            Console.WriteLine(Person.FirstName);
+
+            #endregion
+
+            Console.ReadLine();
         }
     }
 }
