@@ -10,7 +10,6 @@ namespace Ch11_P7_AnonymousTypes
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             #region Internet Surfing
 
             var Person = new { FirstName = "Ammar", LastName = "Shaukat" };
@@ -88,8 +87,7 @@ namespace Ch11_P7_AnonymousTypes
             #endregion
 
             Console.ReadLine();
-<<<<<<< HEAD
-=======
+
         }
 
         private static void EqualityTest()
